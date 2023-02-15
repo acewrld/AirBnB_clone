@@ -249,6 +249,5 @@ Ubuntu 14.04, Emacs, and Python3 language.
 
 ## Authors
 
-Jhoan Stiven Zamora Caicedo | Github: [jzamora5](https://github.com/jzamora5) 
 
-Jose David Caro Cantor | Github: [josecaro02](https://github.com/josecaro02)
+Ademola Olalere |
